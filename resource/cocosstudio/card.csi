@@ -1,0 +1,62 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="card" Type="Plist" ID="685be3dd-a172-4ccf-aa90-342b2927f66e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Card/Card_100.png" />
+      <FilePathData Path="Card/Card_105.png" />
+      <FilePathData Path="Card/Card_106.png" />
+      <FilePathData Path="Card/Card_107.png" />
+      <FilePathData Path="Card/Card_108.png" />
+      <FilePathData Path="Card/Card_113.png" />
+      <FilePathData Path="Card/Card_114.png" />
+      <FilePathData Path="Card/Card_115.png" />
+      <FilePathData Path="Card/Card_116.png" />
+      <FilePathData Path="Card/Card_129.png" />
+      <FilePathData Path="Card/Card_130.png" />
+      <FilePathData Path="Card/Card_131.png" />
+      <FilePathData Path="Card/Card_132.png" />
+      <FilePathData Path="Card/Card_145.png" />
+      <FilePathData Path="Card/Card_153.png" />
+      <FilePathData Path="Card/Card_25.png" />
+      <FilePathData Path="Card/Card_26.png" />
+      <FilePathData Path="Card/Card_27.png" />
+      <FilePathData Path="Card/Card_28.png" />
+      <FilePathData Path="Card/Card_33.png" />
+      <FilePathData Path="Card/Card_34.png" />
+      <FilePathData Path="Card/Card_35.png" />
+      <FilePathData Path="Card/Card_36.png" />
+      <FilePathData Path="Card/Card_41.png" />
+      <FilePathData Path="Card/Card_42.png" />
+      <FilePathData Path="Card/Card_43.png" />
+      <FilePathData Path="Card/Card_44.png" />
+      <FilePathData Path="Card/Card_49.png" />
+      <FilePathData Path="Card/Card_50.png" />
+      <FilePathData Path="Card/Card_51.png" />
+      <FilePathData Path="Card/Card_52.png" />
+      <FilePathData Path="Card/Card_57.png" />
+      <FilePathData Path="Card/Card_58.png" />
+      <FilePathData Path="Card/Card_59.png" />
+      <FilePathData Path="Card/Card_60.png" />
+      <FilePathData Path="Card/Card_65.png" />
+      <FilePathData Path="Card/Card_66.png" />
+      <FilePathData Path="Card/Card_67.png" />
+      <FilePathData Path="Card/Card_68.png" />
+      <FilePathData Path="Card/Card_73.png" />
+      <FilePathData Path="Card/Card_74.png" />
+      <FilePathData Path="Card/Card_75.png" />
+      <FilePathData Path="Card/Card_76.png" />
+      <FilePathData Path="Card/Card_81.png" />
+      <FilePathData Path="Card/Card_82.png" />
+      <FilePathData Path="Card/Card_83.png" />
+      <FilePathData Path="Card/Card_84.png" />
+      <FilePathData Path="Card/Card_89.png" />
+      <FilePathData Path="Card/Card_90.png" />
+      <FilePathData Path="Card/Card_91.png" />
+      <FilePathData Path="Card/Card_92.png" />
+      <FilePathData Path="Card/Card_97.png" />
+      <FilePathData Path="Card/Card_98.png" />
+      <FilePathData Path="Card/Card_99.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

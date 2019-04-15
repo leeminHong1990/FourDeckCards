@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="action_bomb" Type="Plist" ID="f8d7ae3b-949d-43bc-aaa5-4f79b9813e85" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="action/action_bomb_1.png" />
+      <FilePathData Path="action/action_bomb_10.png" />
+      <FilePathData Path="action/action_bomb_11.png" />
+      <FilePathData Path="action/action_bomb_12.png" />
+      <FilePathData Path="action/action_bomb_13.png" />
+      <FilePathData Path="action/action_bomb_14.png" />
+      <FilePathData Path="action/action_bomb_15.png" />
+      <FilePathData Path="action/action_bomb_16.png" />
+      <FilePathData Path="action/action_bomb_17.png" />
+      <FilePathData Path="action/action_bomb_18.png" />
+      <FilePathData Path="action/action_bomb_19.png" />
+      <FilePathData Path="action/action_bomb_2.png" />
+      <FilePathData Path="action/action_bomb_20.png" />
+      <FilePathData Path="action/action_bomb_21.png" />
+      <FilePathData Path="action/action_bomb_22.png" />
+      <FilePathData Path="action/action_bomb_23.png" />
+      <FilePathData Path="action/action_bomb_24.png" />
+      <FilePathData Path="action/action_bomb_25.png" />
+      <FilePathData Path="action/action_bomb_3.png" />
+      <FilePathData Path="action/action_bomb_4.png" />
+      <FilePathData Path="action/action_bomb_5.png" />
+      <FilePathData Path="action/action_bomb_6.png" />
+      <FilePathData Path="action/action_bomb_7.png" />
+      <FilePathData Path="action/action_bomb_8.png" />
+      <FilePathData Path="action/action_bomb_9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>
